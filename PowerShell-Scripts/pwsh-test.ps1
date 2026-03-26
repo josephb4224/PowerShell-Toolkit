@@ -1,0 +1,1 @@
+pwsh -CommandWithArgs '$args | % { "arg: $_" }' arg1 arg2
